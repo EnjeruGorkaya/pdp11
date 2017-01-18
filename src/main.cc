@@ -9,8 +9,8 @@ using namespace std;
 
 int main(int argc, char** argv){
 	cout<<"Hello world!"<<endl;
-	nothing(5);
-	everything(6);
+	nothing(15);
+	everything(7);
 	QApplication app(argc, argv);
 
 	QTextEdit tedit;
